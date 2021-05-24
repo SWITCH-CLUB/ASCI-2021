@@ -27,11 +27,14 @@ Check all the rules regarding the event [here](rules.md)
 6. Team ADS
  
 # WINNERS
-1. Team <strong>CreativeName</strong> (2nd year): <br>
-Srijan Paul (CSE), 
+1. Team <strong>[CreativeName](https://github.com/srijan-paul/Boa--compiling-python)</strong> (2nd year): <br>
+Srijan Paul (CSE)
+<br>
 Manohar Pattanayak (ECE)
 
-2. Team <strong>The DevLoopers</strong> (1st year)- <br>
-Dipankar Maharana (CSE),
-K. Nirmal Kumar (CST),
+2. Team <strong>[The DevLoopers](https://github.com/nirmal700/OneMED1)</strong> (1st year)- <br>
+Dipankar Maharana (CSE)
+<br>
+K. Nirmal Kumar (CST)
+<br>
 Sreeballabh Sahoo (ECE)
