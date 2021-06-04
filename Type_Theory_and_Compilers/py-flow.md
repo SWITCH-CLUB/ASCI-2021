@@ -12,18 +12,18 @@ Type Theory | Compiler Tooling | Math
 
 **PyFlow** is a static analysis tool for the Python programming language that works without needing
 any type annotations. It performs flow sensitive type analysis and and is capable of inferring type 
-information from code using [Hindley Milner](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system) type inference and a unification algorithm.
+information from code using [Hindley Milner](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system) type inference and a [unification](https://en.wikipedia.org/wiki/Unification_(computer_science)) algorithm.
 
-This project attempts to demonstrate that better tooling is possible for duck-typed languages without
-needing an extra layer of traspilation with languages like Typescript or Flow.
+This project attempts to demonstrate that better tooling is possible for dynamically typed languages without
+needing an extra layer of traspilation with superset languages like [Typescript](https://www.typescriptlang.org/) or [Flow](https://flow.org/).
 
 PyFlow watches the filesystem for changes in source code and reports errors as soon as it encounters them.
 
 **Tech stack**:
 
-	- Python
-	- Numpy
-	- WatchDog
+ - Python
+ - Numpy
+ - WatchDog
 
 
 ## Team Members
