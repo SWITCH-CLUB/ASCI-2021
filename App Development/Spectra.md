@@ -1,6 +1,6 @@
 ## Project Name
 
-Spectra
+#Spectra
 
 ## Domain
 
