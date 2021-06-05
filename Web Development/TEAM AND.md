@@ -1,6 +1,6 @@
-## Project Name
+## SITHUB
 
-myproject
+
 
 ## Domain
 
@@ -8,16 +8,21 @@ web dev
 
 ## Link
 
-https://github.com/AnirudhPanda/myproject
-
+https://github.com/Abhinavkar/SITHUB
 ## About Project
-
-Write about your project and the tech stack used
+   we have used 
+   1.HTML
+   2.CSS
+   3.JAVA SCRIPT
+   4.SQL
+   5.API
+   7.PHP
+   
 
 ## Weekly Progress
 
 ## Team Members
 
- 1. name1
- 2. name2
- 3. name3
+ 1. ABHINAV KAR
+ 2. NILESH
+ 3. DIKSHYA AGARWAL
