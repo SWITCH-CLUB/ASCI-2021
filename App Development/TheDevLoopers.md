@@ -22,7 +22,7 @@ in one go. No more chits and handwritten prescriptions.
 
 ## Team Members
 
- 1. Dipankar Maharana
- 2. K Nirmal Kumar
- 3. Sreeballabh Sahu
+ 1. [Dipankar Maharana](https://github.com/thedipankar)
+ 2. [K Nirmal Kumar](https://github.com/nirmal700)
+ 3. [Sreeballabh Sahu](https://github.com/sreeballabh123)
  
