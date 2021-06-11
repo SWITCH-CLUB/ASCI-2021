@@ -1,6 +1,6 @@
 ## Project Name
 
-Credit card fraud detection
+Boston house price prediction
 
 ## Domain
 
@@ -8,16 +8,15 @@ Machine Learning and Web development
 
 ## Link
 
-https://github.com/sr-sweta/Credit-Card-Fraud-Detection
+https://github.com/sr-sweta/Boston-house-price-prediction
 
 ## About Project
 
- Ml(Python)
- C#
- ASP.NET
- Smtp (Gmail)
- Bootstrap
- HTML
+ Ml(Python),  
+ C#, 
+ ASP.NET, 
+ Bootstrap, 
+ HTML, 
  CSS
 
 ## Team Members
