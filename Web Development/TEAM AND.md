@@ -1,5 +1,5 @@
 ## SITHUB 
->> ITS PROJECT MADE DURING  THE EVENT ""ASCII 2021""
+> ITS PROJECT MADE DURING  THE EVENT ""ASCII 2021""
 ## Domain
 
 >>WEB DEVELOPMENT 
@@ -41,6 +41,12 @@ https://github.com/Abhinavkar/SITHUB
 4. ```STUDENT ART CORNER ```
 
 AND MANY MORE UPDATING SOON 
+## TECH STACK 
+	1. HTML
+	2. CSS
+	3. JAVA SCRIPT
+	4. PHP FOR BACKEND 
+	5. BOOTSTRAP
 ## DEVELOPER INVOLVED 
 1. <a href=https://github.com/Abhinavkar>ABHINAV KAR</a>
 2. <a href=https://github.com/nileshkr17>NILESH </a>
