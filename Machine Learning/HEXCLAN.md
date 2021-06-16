@@ -1,13 +1,17 @@
-## DS-PROJECT
+## PROJECT NAME
 
 BUSINESS SALES FORECASTING
 
 ## Domain
 
 MACHINE LEARNING
+
+## Link
+
 https://github.com/namrata-mishra55/ds-project
 
 
+## About Project
 
 This is a business project useful for business professionals.
 This model will help the businessman to predict the sales amount  for next month in a scientific way so that they can plan the budget accordingly.
