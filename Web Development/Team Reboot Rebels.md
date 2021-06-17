@@ -21,6 +21,8 @@ Now a days the resources are very huge know that we could not be able to fetch w
 ## Tech-Stack being used.
 #### •	Using PHP as backend and MySQL as database to store the info of users.
 #### •	In frontend HTML, CSS with Bootstrap, and JavaScript is being used.
+## Repositories link
+https://github.com/sritham10/knowledge-hub#in-frontend-html-css-with-bootstrap-and-javascript-is-being-used
 
 
 ## Team Members
