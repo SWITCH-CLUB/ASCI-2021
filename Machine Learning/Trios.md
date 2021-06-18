@@ -32,3 +32,14 @@ The main aim of adding chatbot feature to our website would be to communicate wi
 1. Sweta Rani
 2. Raoshnak Quadri
 3. Soumava Dhabal
+
+## First Week Work
+
+Data loading and data cleaning was done in ML part. And in web part, login page was designed. Since the project is going to be based on 3 tier architecture the entity layer was 
+made for house details. The entity layer is going to help in transfer of data between data access layer and business logic layer.
+
+## Second Week Work
+
+Analysis of various data features was done with respect to price using graphs and piecharts in ML part. In web development part, home page, signIn, login and house details entry page 
+was designed. The backend was also designed. In backend, stored procedures were also made (in computer local server) for taking inputs and display of user details, city, place and country names. 
+And entity layer for country, city, places and user was made and house details was updated.
