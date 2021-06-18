@@ -11,7 +11,7 @@ https://github.com/DibyaPrakashDash/Project-Hello
 
 ## About Project
 
-Project Hello is based upon the creation of making a semi-virtual personal assistant. This is based on python  programming language. Hello can not only talk with the user but can learn him. 
+Wherever we go we need money, right? But money does not grow on trees. We need to Spend wisely and idealy. So that we never run into a cornered situation in future. Project Hello is based upon the creation of making a semi-virtual personal assistant which can not only interact with the User but also learns him/her. It can perdict the spendings and savings of the User in the future from the current date. It can tell if the spent was ideal or not for a time duration. Project Hello is based on Python programming language. 
 
 ## Team Members
 
