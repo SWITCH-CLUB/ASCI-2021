@@ -21,3 +21,11 @@ The tech stack used consists of OpenCV, Python, Anaconda, Jupyter Notebook, Tens
 
  1. Dhanraj Chowdhury
  2. Satish Ranjan Das
+
+## Weekly Report
+### Week 1
+Configured all the required software and got past all the compatibility issues.<br>
+Set up the image capture program to collect images for the dataset.
+### Week 2
+Labelled the collected images by applying bounding boxes to the hand symbols.<br>
+Set up the pre-trained training model from TensorFlow GitHub repo, and set up some of the code required to alter the configuration of the pre-trained training model in order to match our requirements
