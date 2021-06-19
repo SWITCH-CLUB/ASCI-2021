@@ -29,3 +29,8 @@ Set up the image capture program to collect images for the dataset.
 ### Week 2
 Labelled the collected images by applying bounding boxes to the hand symbols.<br>
 Set up the pre-trained training model from TensorFlow GitHub repo, and set up some of the code required to alter the configuration of the pre-trained training model in order to match our requirements
+
+## References
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
