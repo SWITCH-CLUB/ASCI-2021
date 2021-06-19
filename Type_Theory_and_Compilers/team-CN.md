@@ -33,3 +33,15 @@ Boa watches the filesystem for changes in source code and reports errors as soon
 
  1. [Manohar Pattanayak](https://github.com/manoharbabun)
  2. [Srijan Paul](https://github.com/srijan-paul/)
+
+## Weekly Progress
+
+### Week 1
+- Implemented Parsing, syntax analysis and basic type checking for primitive data types.
+- Added a barebones framework for the Hindey Milner unification engine.
+
+### Week 2
+- Can now compile basic control flow structures down to assembly instructions.
+- Added context sensitive type analysis.
+- Implemented a high level IR that acts as a middle ground between the AST and the native machine code.
+
