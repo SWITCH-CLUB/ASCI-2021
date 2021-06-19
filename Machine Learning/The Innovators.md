@@ -18,3 +18,4 @@ Wherever we go we need money, right? But money does not grow on trees. We need t
  1. Dibya Prakash Dash
  2. Nihar Ranjan Sahoo
 ## Contribution and Progress:
+Week 1- We both implemented some Functions of some highly used features using Text Commands. Currently working on Speech recognition, NLP and collectiong Datasets for our prediction system.
