@@ -8,7 +8,7 @@ Spectra
 
 ## Link
 
-[Spectra](https://github.com/ParadoxPD/Spectra)
+[**Spectra**](https://github.com/ParadoxPD/Spectra)
 
 ## About Project
 
@@ -25,10 +25,41 @@ for analyzing and using light spectrum intensity for the better growth and susta
 
  - [Flutter](https://flutter.dev/)
  - [Dart](https://dart.dev/)
- - [Python](https://www.python.org/)
+ - [Javascript](https://www.javascript.com/)
+ - [NodeJS](https://nodejs.org/en/)
+ - [PostgreSQL](https://www.postgresql.org/)
 
+
+
+
+## **Weekly Report**: 
+
+### Week 1 : 
+
+ - Discussion of topic and idea
+ - Background research on the topic supporting our idea
+ - Design the UI of the app(Login Page)
+ - Started the Frontend of the app using *Flutter* (Login page)
+
+### Week 2 : 
+
+ - Designed the UI of the complete app (Dashboard , Profile page, Registration Page)
+ - Worked on the frontend using *Flutter*(Dashboard and Registration Page)
+ - Started work on Backend (**Nodejs** and **PostgreSQL**)
 ## Team Members
 
  1. [Sahil Saha](https://github.com/Sahil1523)
  2. [Priyanshu Das](https://github.com/ParadoxPD/)
  3. [Pratyush Ranjan Pani](https://github.com/Helios-Asc)
+
+## Research Data used :
+ - [EFFECTS OF BLUE AND GREEN LIGHT ON PLANT GROWTH
+AND DEVELOPMENT AT LOW AND HIGH
+PHOTOSYNTHETIC PHOTON FLUX
+](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=5650&context=etd)
+
+ - [How Plants Use Light? 3 LED Spectrums [Full Breakdown]](https://www.youtube.com/watch?v=NMVP7Nvew0A)
+
+ - [The Effect of Different Wavelengths of Light on the Rate of Photosynthesis](https://www.youtube.com/watch?v=H1yv4NtFT3A)
+
+ - [Leaf Pigments and Light](https://www.youtube.com/watch?v=dwz3qozDiyI)
