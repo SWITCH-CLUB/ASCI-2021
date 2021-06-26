@@ -60,5 +60,5 @@ by allowing type traits inspired from Rust and Haskell.
 2. [Stephen Deihl's Hindley Milner Type inference for Haskell](http://dev.stephendiehl.com/fun/006_hindley_milner.html).
 We used this E-book as reference for implementing the type equation generation and on-demand constraint solving.
 
-3. [Rescript](https://rescript-lang.org/). An OCaml like programming languge developed as facebook that as similar type inefernece, but it compiles to Javascript and does not play nice with mutation. We used Rescript's OCaml type-checker (that can be found [here](https://github.com/rescript-lang/ocaml/blob/7d45d126c85c6e1a43260132ac28e2e45f80ce42/typing/typedtree.ml)) as a
+3. [Rescript](https://rescript-lang.org/). An OCaml like programming languge developed as facebook that as similar type inference, but it compiles to Javascript and does not play nice with mutation. We used Rescript's OCaml type-checker (that can be found [here](https://github.com/rescript-lang/ocaml/blob/7d45d126c85c6e1a43260132ac28e2e45f80ce42/typing/typedtree.ml)) as a
 reference for adding implicit AST annotations to the parsed Python AST in our type inference engine.
