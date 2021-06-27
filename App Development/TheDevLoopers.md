@@ -20,6 +20,12 @@ in one go. No more chits and handwritten prescriptions.
 1. Java
 2. Android Studio
 
+## Weekly Progress
+
+Week 1: Discussing the outlook and creating different pages. 
+
+Week 2: Working in the backend and improving UI.
+
 ## Team Members
 
  1. [Dipankar Maharana](https://github.com/thedipankar)
