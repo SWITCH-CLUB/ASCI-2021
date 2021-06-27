@@ -48,3 +48,5 @@ https://planspace.org/20150607-textblob_sentiment/
 WEEK 1 : Data Cleaning
 
 WEEK 2 : Data Visualization
+
+WEEK 3 : Machine Learning Model
