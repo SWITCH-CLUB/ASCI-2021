@@ -22,8 +22,8 @@ in one go. No more chits and handwritten prescriptions.
 
 ## Weekly Progress
 
-Week 1 : Discussing the outlook and creating different pages.
-Week 2 : Working in the backend and improving UI.
+Week 1: Discussing the outlook and creating different pages. 
+Week 2: Working in the backend and improving UI.
 
 ## Team Members
 
