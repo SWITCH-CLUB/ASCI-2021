@@ -29,6 +29,11 @@ Set up the image capture program to collect images for the dataset.
 ### Week 2
 Labelled the collected images by applying bounding boxes to the hand symbols.<br>
 Set up the pre-trained training model from TensorFlow GitHub repo, and set up some of the code required to alter the configuration of the pre-trained training model in order to match our requirements
+### Week 3
+Finished collecting all the images and made a dataset of over 1300 pictures for 14 signs.<br>
+Trained our model using transfer learning with a mean precision of almost 79% in the first attempt.<br>
+Fine tuned the model and successfully tested it with all the trained signs.<br>
+The model is ready for real time detection.
 
 ## References
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html <br>
