@@ -19,6 +19,7 @@ in one go. No more chits and handwritten prescriptions.
 
 1. Java
 2. Android Studio
+3. Firebase
 
 ## Weekly Progress
 
