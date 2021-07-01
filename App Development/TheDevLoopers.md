@@ -27,6 +27,8 @@ Week 1: Discussing the outlook and creating different pages.
 
 Week 2: Working in the backend and improving UI.
 
+Week 3: Added CRUD operations
+
 ## Team Members
 
  1. [Dipankar Maharana](https://github.com/thedipankar)
