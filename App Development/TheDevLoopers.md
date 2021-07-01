@@ -8,7 +8,7 @@ App development
 
 ## Link
 
-[OneMED](https://github.com/thedipankar/OneMED)
+[OneMED](https://github.com/nirmal700/OneMED1)
 
 ## About Project
 
