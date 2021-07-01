@@ -8,7 +8,7 @@ App development
 
 ## Link
 
-[OneMED](https://github.com/thedipankar/OneMED)
+[OneMED](https://github.com/nirmal700/OneMED1)
 
 ## About Project
 
@@ -19,12 +19,15 @@ in one go. No more chits and handwritten prescriptions.
 
 1. Java
 2. Android Studio
+3. Firebase
 
 ## Weekly Progress
 
 Week 1: Discussing the outlook and creating different pages. 
 
 Week 2: Working in the backend and improving UI.
+
+Week 3: Added CRUD operations
 
 ## Team Members
 
