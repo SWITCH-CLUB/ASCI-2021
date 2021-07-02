@@ -12,16 +12,17 @@ Web Development
 
 ## About Project
 
-**Absidy**, in essence is (rather aims to be) a safety guide to people migrating to/staying over in places they're new to. We plan to record already available (then extend it to mining real time) crime stats in a city to help people avoid renting a place or layovers in shady areas.
+**Absidy**, in essence is (rather aims to be) a safety guide to people migrating to/staying over in places they're new to. We plan to crowdsource data about prevalent crimes in different areas of a town/city to help people avoid renting a place or layover in shady areas.
 
-Additionally, armed with information about laws and helpline numbers of the locality, we aim to make it a traveller friendly, hassle-free substitute to asking around strangers for information or scrounging through the internet.
+Additionally, armed with information about travel and safety related laws, and, nearest hospitals and police stations, we aim to make it a traveller friendly, hassle-free substitute to asking around strangers for information or scrounging through the internet.
 
 **Tech stack**:
 
- - HTML
- - CSS
- - JavaScript
- (Will add more as we move futhur with the project)
+ - WAMP (Windows (OS), Apache (web-server), MySQL (database), PHP (lang))
+ - HTML, CSS
+ - JavaScript  
+ 
+ (Google Maps JavaScript API, Google Places API)
 
 
 ## Team Members
@@ -37,7 +38,11 @@ Discussion of idea and broad decision of details.
 Designed landing page, contact page and 'laws' page.  
 **Week 2:**  
 Designed pages for nearest hospitals and police stations.  
-Added maps through Google Maps Javascript API and Google Places API.
+Added maps through Google Maps Javascript API and Google Places API.  
+Made pages responsive.  
+**Week 3:**  
+Connected backend.  
+CRUD operations on db.
 
 ## References
 
@@ -47,4 +52,7 @@ Added maps through Google Maps Javascript API and Google Places API.
    [Referencing CSS Elements](https://www.w3schools.com/w3css/defaulT.asp)  
    [Radio panel division](https://stackoverflow.com/questions/32935435/use-div-as-radio-button)  
  - JS:  
-   [API and pagination for maps](https://developers.google.com/maps/documentation/javascript/examples/place-search-pagination#maps_place_search_pagination-html) 
+   [API and pagination for maps](https://developers.google.com/maps/documentation/javascript/examples/place-search-pagination#maps_place_search_pagination-html)  
+  - DB:  
+   [working with a database](https://www.geeksforgeeks.org/how-to-fetch-data-from-localserver-database-and-display-on-html-table-using-php/)
+   
