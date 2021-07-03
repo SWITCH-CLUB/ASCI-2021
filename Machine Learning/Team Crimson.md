@@ -50,3 +50,5 @@ WEEK 1 : Data Cleaning,
 
 WEEK 2 : Machine Learning Model
 
+WEEK 3 : Implementation. Added pie chart, confusion matrix
+
