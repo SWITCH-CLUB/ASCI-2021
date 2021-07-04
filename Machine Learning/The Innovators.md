@@ -20,3 +20,4 @@ Wherever we go we need money, right? But money does not grow on trees. We need t
 ## Contribution and Progress:
 Week 1- We both implemented some Functions of some highly used features using Text Commands. Currently working on Speech recognition, NLP and collectiong Datasets for our prediction system.
 Week 2- We both worked on speech input on the program
+Week 3- Succesfully implemented the GUI part on Tkinter. Nihar has completed the Machine Learning part an Dibya has integrated all thing together on the GUI.
