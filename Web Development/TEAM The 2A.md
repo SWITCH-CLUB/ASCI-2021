@@ -4,7 +4,8 @@ FoSC
 
 ## Domain
 
-web dev
+Web Development
+
 ## Link
 
 https://github.com/AbinashSamal828/FoSC
