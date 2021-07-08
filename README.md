@@ -1,4 +1,6 @@
-## 🎉 Event Completed Successfully!
+<h3 align="center">
+    🎉 Event Completed Successfully!
+</h3>
 
 [![Whats-App-Image-2021-06-04-at-13-19-42.jpg](https://i.postimg.cc/pTtcqV3y/Whats-App-Image-2021-06-04-at-13-19-42.jpg)](https://postimg.cc/xktPdQfS)
 # ASCI 2021
