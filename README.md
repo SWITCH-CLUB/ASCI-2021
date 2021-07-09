@@ -16,3 +16,12 @@ Check all the rules regarding the event [here](rules.md)
 - Add your `team-name.md` file in respective domain folders
 - Add, Commit and Push it and create a Pull Request here.
 - We will check and merge it
+
+# Top 6 Teams
+
+1. Team Atraxia
+2. Team Pixl
+3. Team Devloopers
+4. Team Creative Name
+5. Team Zephyr
+6. Team ADS
