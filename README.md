@@ -25,3 +25,13 @@ Check all the rules regarding the event [here](rules.md)
 4. Team Creative Name
 5. Team Zephyr
 6. Team ADS
+ 
+# WINNERS
+1. Team <strong>CreativeName</strong> (2nd year): <br>
+Srijan Paul (CSE), 
+Manohar Pattanayak (ECE)
+
+2. Team <strong>The DevLoopers</strong> (1st year)- <br>
+Dipankar Maharana (CSE),
+K. Nirmal Kumar (CST),
+Sreeballabh Sahoo (ECE)
